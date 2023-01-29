@@ -2,7 +2,7 @@
 
 Simple student project of gear rotation detector based on distance detector.
 
-If you want to check it by yourself just download GearRotationDetector.apk (from /Builds) on your android phone
+If you want to check it by yourself just download [application](https://github.com/adbreeker/Gear-Rotation-Detector/blob/main/Builds/GearRotationDetector.apk) on your android phone
 
 
 
