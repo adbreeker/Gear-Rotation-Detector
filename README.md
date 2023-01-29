@@ -7,6 +7,7 @@ If you want to check it by yourself just download [application](https://github.c
 <br>
 <br>
 <br>
-Preview video <br> <br>
+Preview video:
+
 https://user-images.githubusercontent.com/111668308/215346010-05b65eca-96c9-46df-a2f7-af85b9422f12.mp4
 
